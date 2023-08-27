@@ -1,2 +1,4 @@
 # Lokomat
-Repositório para disciplina de fundamentos da programação - Atividade contextualizada 02
+
+Repositório para alocar arquivos relacionados ao projeto de reabilitação com os equipamentos Lokomat e ZeroG.
+
